@@ -1,25 +1,48 @@
-{ "name"          : "cli",
-  "description"   : "A tool for rapidly building command line apps",
-  "version"       : "1.0.1",
-  "homepage"      : "http://github.com/node-js-libs/cli",
-  "keywords"      : ["cli","command line","opts","parseopt","opt","args","console","argsparse","optparse","autocomplete","command","autocompletion"],
-  "author"        : "Chris O'Hara <cohara87@gmail.com>",
-  "main"          : "cli.js",
+{
+  "name": "cli",
+  "description": "A tool for rapidly building command line apps",
+  "version": "1.0.1-lineaje-01",
+  "homepage": "http://github.com/node-js-libs/cli",
+  "keywords": [
+    "cli",
+    "command line",
+    "opts",
+    "parseopt",
+    "opt",
+    "args",
+    "console",
+    "argsparse",
+    "optparse",
+    "autocomplete",
+    "command",
+    "autocompletion"
+  ],
+  "author": "Chris O'Hara <cohara87@gmail.com>",
+  "main": "cli.js",
   "bugs": {
     "mail": "cohara87@gmail.com",
     "url": "http://github.com/node-js-libs/cli/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-js-libs/cli.git"
+    "url": "https://github.com/lineaje-labs-gos/node-js-libs-cli"
   },
   "dependencies": {
     "glob": "^7.1.1",
     "exit": "0.1.2"
   },
   "contributors": [
-    { "name": "Douglas Meyer", "github": "https://github.com/DouglasMeyer" }
+    {
+      "name": "Douglas Meyer",
+      "github": "https://github.com/DouglasMeyer"
+    },
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
-  "engines": { "node": ">=0.2.5" },
+  "engines": {
+    "node": ">=0.2.5"
+  },
   "license": "MIT"
 }
