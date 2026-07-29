@@ -1,7 +1,7 @@
 {
   "name": "cli",
   "description": "A tool for rapidly building command line apps",
-  "version": "1.0.1-lineaje-01",
+  "version": "1.0.1-lineaje-02",
   "homepage": "http://github.com/node-js-libs/cli",
   "keywords": [
     "cli",
